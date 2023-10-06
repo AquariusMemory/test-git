@@ -7,6 +7,6 @@ public class TestGit {
         System.out.println("hello word");
         System.out.println("hello flink");
         System.out.println("hello gitlab");
-        System.out.println("hello gitlab ssh");
+        System.out.println("hello gitlab ssh2");
     }
 }
